@@ -1,107 +1,119 @@
-<h1 align="center">Hi 👋, I'm Yousef Yasin</h1>
-<h3 align="center">Data Science & Artificial Intelligence Student | Aspiring AI Engineer</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent AI systems with Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI.
+# 👋 Hi, I'm Yousef Yasin
+
+### Data Science & Artificial Intelligence Student @ Amman Arab University
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0F8B8D&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP;Generative+AI+%7C+LLMs;Building+Intelligent+AI+Systems" />
+
+<p>
+Passionate about building AI solutions that solve real-world problems using Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI.
 </p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Data Science & Artificial Intelligence Student at Amman Arab University
+🎓 **Data Science & Artificial Intelligence Student** at **Amman Arab University**
 
-🤖 Passionate about Artificial Intelligence and solving real-world problems with AI.
+💡 Passionate about designing and deploying intelligent AI systems.
 
-💻 Interested in
+📚 Currently learning
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- Large Language Models
-- AI Deployment
-
-🌱 Currently learning
-
-- PyTorch
 - Advanced Deep Learning
-- LLMs
-- RAG Systems
+- PyTorch
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - MLOps
 - Docker
+
+🎯 Career Goal
+
+Become an AI Engineer specializing in Computer Vision and Generative AI.
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+## Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+</p>
 
----
+## AI & Machine Learning
 
-### Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+</p>
 
----
+## Backend
 
-### Deep Learning
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+## Tools
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
----
-
-### Computer Vision
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-
----
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 
 ---
 
-# ⭐ Featured Projects
+# 🌟 Featured Projects
 
 ## 🤖 QOYN Platform
 
-AI-powered career readiness platform featuring:
+AI-powered educational and career readiness platform featuring
 
-- Resume Analysis
 - AI Mentor
+- Resume Analysis
+- Skill Gap Detection
+- Semantic Search
 - Project Generator
-- Skill Gap Analysis
-- Job Readiness Evaluation
 - Learning Roadmaps
+- Job Readiness Evaluation
 
 ---
 
-## 🧠 Machine Learning Labs
+## 👁 Computer Vision Labs
 
-Collection of ML projects including
+Collection of Computer Vision projects including
+
+- CNN Image Classification
+- Image Processing
+- OpenCV Applications
+- Model Evaluation
+
+---
+
+## 🧠 Deep Learning Labs
+
+Implementations of
+
+- CNN
+- Autoencoders
+- GANs
+- Transformers
+- Transfer Learning
+
+---
+
+## 📊 Machine Learning Labs
+
+Projects including
 
 - Student Performance Prediction
 - Customer Churn Prediction
@@ -111,68 +123,79 @@ Collection of ML projects including
 
 ---
 
-## 👁 Computer Vision Labs
+## ☀️ Solar Site Analyzer
 
-Deep Learning projects using CNNs and OpenCV.
-
-Including
-
-- Image Classification
-- Image Processing
-- CNN Models
+AI-powered Computer Vision system that analyzes solar installation sites and estimates suitability using image processing and deep learning.
 
 ---
 
-## 🧠 Deep Learning Labs
+# 📈 GitHub Statistics
 
-Implementation and experiments with
+<div align="center">
 
-- CNN
-- AutoEncoder
-- GAN
-- Transformers
-- Transfer Learning
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yousef-yasin&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-yasin&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🌍 Solar Site Analyzer
-
-Computer Vision system for evaluating solar panel installation sites using AI.
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yousef-yasin&show_icons=true&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=yousef-yasin&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-yasin&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yousef-yasin&theme=tokyo-night)](https://github.com/yousef-yasin)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousef-yasin&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- Build end-to-end AI applications
+- Master PyTorch
+- Develop production-ready Computer Vision systems
+- Build LLM & RAG applications
+- Learn MLOps & Docker
+- Contribute to Open Source AI projects
 
 ---
 
 # 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/yousef-yasin">
-GitHub
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yousef-yasin-79b615318/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:yousefyasin694@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-💡 "Artificial Intelligence is not just about building models; it's about building solutions."
+### 💬 *"Artificial Intelligence is not just about building models; it's about building impactful solutions."*
 
-</p>
+⭐ Thanks for visiting my profile!
+
+</div>
