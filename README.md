@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yousef Yasin
+#  I'm Yousef Yasin
 
 ### Data Science & Artificial Intelligence Student @ Amman Arab University
 
